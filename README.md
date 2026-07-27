@@ -1,57 +1,60 @@
 # v2ray 免费节点测试
 
-节点来源：https://github.com/free-nodes/v2rayfree
+节点来源：
+  https://github.com/free-nodes/v2rayfree
 
-测试软件：https://github.com/2dust/v2rayN/releases
+测试软件：
+  https://github.com/2dust/v2rayN/releases
 
 
 
 # GeoGebra manual【中英双语对照】
 
-源文件：https://geogebra.github.io/docs
+源文件：
+  https://geogebra.github.io/docs
 
 Translated: 
 
-[Algebra Commands](https://github.com/jianzou/v2rayN_free/commit/Commands/Algebra_Commands.html)
+	[Algebra Commands]
 
-[Geometry Commands](https://github.com/jianzou/v2rayN_free/commit/Commands/Geometry_Commands.html)
+	[Geometry Commands]
 
-[List Commands](https://github.com/jianzou/v2rayN_free/commit/Commands/List_Commands.html)
+	[List Commands]
 
-[Logic Commands](https://github.com/jianzou/v2rayN_free/commit/Commands/Logic_Commands.html)
+	[Logic Commands]
 
-[Vector and Matrix Commands](https://github.com/jianzou/v2rayN_free/commit/Commands/Vector_and_Matrix_Commands.html)
+	[Vector and Matrix Commands]
 
 
 
 TBD: 
 
-[3D Commands](https://github.com/jianzou/v2rayN_free/commit/Commands/3D_Commands.html)
+	[3D Commands]
 
-[Chart Commands](https://github.com/jianzou/v2rayN_free/commit/Commands/Chart_Commands.html)
+	[Chart Commands]
 
-[Conic Commands](https://github.com/jianzou/v2rayN_free/commit/Commands/Conic_Commands.html)
+	[Conic Commands]
 
-[Discrete Math Commands](https://github.com/jianzou/v2rayN_free/commit/Commands/Discrete_Math_Commands.html)
+	[Discrete Math Commands]
 
-[Function Commands](https://github.com/jianzou/v2rayN_free/commit/Commands/Functions_and_Calculus_Commands.html)
+	[Function Commands]
 
-[GeoGebra Commands](https://github.com/jianzou/v2rayN_free/commit/Commands/GeoGebra_Commands.html)
+	[GeoGebra Commands]
 
-[Optimization Commands](https://github.com/jianzou/v2rayN_free/commit/Commands/Optimization_Commands.html)
+	[Optimization Commands]
 
-[Probability Commands](https://github.com/jianzou/v2rayN_free/commit/Commands/Probability_Commands.html)
+	[Probability Commands]
 
-[Scripting Commands](https://github.com/jianzou/v2rayN_free/commit/Commands/Scripting_Commands.html)
+	[Scripting Commands]
 
-[Spreadsheet Commands](https://github.com/jianzou/v2rayN_free/commit/Commands/Spreadsheet_Commands.html)
+	[Spreadsheet Commands]
 
-[Statistics Commands](https://github.com/jianzou/v2rayN_free/commit/Commands/Statistics_Commands.html)
+	[Statistics Commands]
 
-[Financial Commands](https://github.com/jianzou/v2rayN_free/commit/Commands/Financial_Commands.html)
+	[Financial Commands]
 
-[Text Commands](https://github.com/jianzou/v2rayN_free/commit/Commands/Text_Commands.html)
+	[Text Commands]
 
-[Transformation Commands](https://github.com/jianzou/v2rayN_free/commit/Commands/Transformation_Commands.html)
+	[Transformation Commands]
 
-[CAS Specific Commands](https://github.com/jianzou/v2rayN_free/commit/Commands/CAS_Specific_Commands.html)
+	[CAS Specific Commands]
