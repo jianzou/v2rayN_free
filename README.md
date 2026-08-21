@@ -17,6 +17,8 @@ Translated:
 
 	[Algebra Commands]
 
+	[Conic Commands]
+
 	[Geometry Commands]
 
 	[List Commands]
@@ -32,8 +34,6 @@ TBD:
 	[3D Commands]
 
 	[Chart Commands]
-
-	[Conic Commands]
 
 	[Discrete Math Commands]
 
