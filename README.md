@@ -25,6 +25,8 @@ Translated:
 
 	[Logic Commands]
 
+	[Transformation Commands]
+
 	[Vector and Matrix Commands]
 
 
@@ -54,7 +56,5 @@ TBD:
 	[Financial Commands]
 
 	[Text Commands]
-
-	[Transformation Commands]
 
 	[CAS Specific Commands]
