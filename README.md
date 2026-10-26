@@ -11,7 +11,7 @@
 
 测试软件：
 
-  https://github.com/2dust/v2rayN/releases, https://bdnb.cn/repo/2dust/v2rayN/releases
+  https://github.com/2dust/v2rayN/releases, https://bdnb.cn/repo/2dust/v2rayN
 
 
 
